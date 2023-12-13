@@ -6,7 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import os
 
 # Set the path to the chromedriver executable
-chromedriver_path = r'C:\Users\Umar khan\Downloads\Compressed\chromedriver_win32\chromedriver.exe'
+chromedriver_path = r'C:\git remote -v
+Users\Umar khan\Downloads\Compressed\chromedriver_win32\chromedriver.exe'
 
 # Set the PATH environment variable
 os.environ['PATH'] += ';' + chromedriver_path
